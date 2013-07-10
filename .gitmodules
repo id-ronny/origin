@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/pathauto"]
+	path = sites/all/modules/pathauto
+	url = git://git.drupal.org/project/pathauto.git
